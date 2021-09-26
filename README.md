@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amadeudeprado
-- 👀 I’m interested in algorithim
+- 👀 I’m interested in algorithms
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on developing
 - 📫 How to reach me ozgurservandok@gmail.com
