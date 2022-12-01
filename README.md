@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amadeudeprado
 - 👀 I’m interested in algorithms
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on developing
 - 📫 How to reach me ozgurservandok@gmail.com
 <!---
